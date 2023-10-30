@@ -1,6 +1,6 @@
 const express = require('express');
-const apiRoutes = require('./routes/apiRoutes');
-const htmlRoutes = require('./routes/htmlRoutes');
+const apiRoutes = require('./public/routes/apiRoutes');
+const htmlRoutes = require('./public/routes/htmlRoutes');
 
 const app = express();
 const PORT = precess.env.PORT || 3001;
