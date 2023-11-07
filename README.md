@@ -1,8 +1,9 @@
-README.md
-NOTE TAKER CHALLENGE
+
+#NOTE TAKER CHALLENGE
+
 GitHub license
 
-Description
+#Description
 
 Note Taker is an application that  can used to write and save notes to keep track of tasks the user need to complete.  
 
