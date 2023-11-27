@@ -29,9 +29,7 @@ It requires npm, express.js installed.
 When you access the app, you will see a initial screen:
 
 ![image](https://github.com/sferna10/Note-Taker-Challenge/assets/139423719/59f2c647-49a9-44a0-91cc-57e1cfa218b2)
-
 When you click on start, it will open a note taker screen:
-
 ![image](https://github.com/sferna10/Note-Taker-Challenge/assets/139423719/2802d816-e774-4394-b11f-5ea844b9f657)
 
 
