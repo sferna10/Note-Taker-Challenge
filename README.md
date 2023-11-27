@@ -26,6 +26,8 @@ express@
 ## Usage
 
 It requires Inquirer and npm installed.
+![image](https://github.com/sferna10/Note-Taker-Challenge/assets/139423719/59f2c647-49a9-44a0-91cc-57e1cfa218b2)
+
 
 
 
